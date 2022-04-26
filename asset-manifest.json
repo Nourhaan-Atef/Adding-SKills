@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Adding-SKills/static/css/main.25a4cc1c.css",
+    "main.js": "/Adding-SKills/static/js/main.568a0466.js",
+    "static/js/787.361fba96.chunk.js": "/Adding-SKills/static/js/787.361fba96.chunk.js",
+    "index.html": "/Adding-SKills/index.html",
+    "main.25a4cc1c.css.map": "/Adding-SKills/static/css/main.25a4cc1c.css.map",
+    "main.568a0466.js.map": "/Adding-SKills/static/js/main.568a0466.js.map",
+    "787.361fba96.chunk.js.map": "/Adding-SKills/static/js/787.361fba96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a4cc1c.css",
+    "static/js/main.568a0466.js"
+  ]
+}
